@@ -1,6 +1,6 @@
 # 🤮 AI Slop Manager - Starter Edition
 
-> **Stop paying $20/month for cloud-censored subscription slop. Run your local AI pipelines offline with 1-click. Crash-proof VRAM control, zero Python setup, pure local power on `127.0.0.1`.**
+>  **Bypass cloud subscription slop. Run your local AI pipelines offline with a 1-click workspace. Zero Python setup, crash-proof memory control, 100% local power.**
 
 [![Platform: Windows](https://img.shields.io/badge/Platform-Windows-blue?style=flat-square)](#)
 [![Local-First](https://img.shields.io/badge/Privacy-100%25_Local-brightgreen?style=flat-square)](#)
