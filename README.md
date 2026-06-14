@@ -52,8 +52,8 @@ The Starter Edition is compiled as a native Windows C++ binary. You don't need t
 
 1.  Go to the **[Releases](https://github.com/)** page of this repository.
 2.  Download the latest `AI_Slop_Manager_Starter_vX.Y.Z.zip` package.
-3.  Extract the folder anywhere on your local SSD (NVMe highly recommended).
-4.  Run `app_starter.exe`.
+3.  Extract the folder anywhere on your local SSD.
+4.  Run `Run_AI_Slop_Manager.bat`.
 5.  The Setup Wizard will guide you through the initial local engine download.
 
 ---
