@@ -25,7 +25,7 @@ The free version comes pre-configured with three highly optimized local pipeline
 1.  **⚡ ZImage Generation Pipeline (Ultra-Fast):**
     *   *Powered by:* ZImage Turbo UNET, Qwen 3.4B CLIP, and ZImage VAE.
     *   *Capability:* Real-time, lightning-fast generation with highly accurate prompt adherence, optimized for low VRAM consumption.
-2.  **📸 SDXL Photographic Studio (Juggernaut XL):**
+2.  **📸 SDXL Easy Image (Juggernaut XL):**
     *   *Powered by:* Juggernaut XL v9 RunDiffusion.
     *   *Capability:* Photorealistic, studio-quality, high-fidelity local photography generation with rich lighting and textures.
 3.  **🖌️ Basic Qwen Image Editor (Canvas-free):**
