@@ -66,7 +66,7 @@ The Starter Edition is compiled as a native Windows C++ binary. You don't need t
 
 ---
 
-## 💎 Support the Local AI Resistance
+## 💎 Support the Local AI Experiments
 
 Love the offline freedom? Support the project to keep local software development alive:
 
