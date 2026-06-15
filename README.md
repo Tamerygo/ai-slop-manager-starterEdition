@@ -50,7 +50,7 @@ I am actively developing the **Advanced Toolchain (€29 Tier)** to bridge the g
 
 The Starter Edition is compiled as a native Windows C++ binary. You don't need to install Python, Git, or manage Virtual Environments.
 
-1.  Go to the **[Releases]([https://github.com/](https://github.com/Tamerygo/ai-slop-manager-starterEdition/releases/tag/v1.0.0))** page of this repository.
+1.  Go to the **[Releases](https://github.com/Tamerygo/ai-slop-manager-starterEdition/releases/tag/v1.0.0)** page of this repository.
 2.  Download the latest `AI_Slop_Manager_Starter_vX.Y.Z.zip` package.
 3.  Extract the folder anywhere on your local SSD.
 4.  Run `Run_AI_Slop_Manager.bat`.
