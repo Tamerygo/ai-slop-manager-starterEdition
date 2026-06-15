@@ -36,7 +36,7 @@ The free version comes pre-configured with three highly optimized local pipeline
 
 ## 🚀 Roadmap & Upcoming Advanced Capabilities
 
-We are actively developing the **Advanced Toolchain (€29 Tier)** to bridge the gap between local 2D generation and production-ready 3D pipeline orchestration:
+I am actively developing the **Advanced Toolchain (€29 Tier)** to bridge the gap between local 2D generation and production-ready 3D pipeline orchestration:
 
 *   **🎨 Advanced Qwen Image Edit Workflow:**
     *   Highly precise local canvas manipulation, advanced selective inpainting, multi-angle consistency controls, and deep style transfer leveraging the full Qwen-VL vision pipeline.
