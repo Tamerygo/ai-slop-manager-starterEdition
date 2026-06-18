@@ -21,7 +21,7 @@ Running local AI (like ComfyUI and Ollama) usually requires terminal commands, c
 
 *   **Instant Local Setup:** No Python or Git required. The integrated installer configures ComfyUI Portable and Ollama automatically on first launch.
 *   **Smart VRAM Management:** Automatically orchestrates GPU memory between text (LLM) and image generation tasks to prevent system crashes.
-*   **❄️ AI_SlopManage_1.1.0 Hardware Shield:** Cooldowns GPU and flushes VRAM progressively to prevent useless memory dumps on your system.
+*   **❄️ AI_SlopManager_1.1.0 Hardware Shield:** Cooldowns GPU and flushes VRAM progressively to prevent useless memory dumps on your system.
 *   **Clean Unified Dashboard:** Generate, preview, and manage files without touching terminal screens or complex node-spaghetti graphs.
 *   **Total Privacy:** Everything runs on `127.0.0.1`. No telemetry, no cloud API fees, and absolute offline freedom.
 
@@ -41,7 +41,7 @@ The free version comes pre-configured with three highly optimized local pipeline
 
 2.  **📸 SDXL Easy Image (Juggernaut XL):**
     *   *Powered by:* Juggernaut XL v9 RunDiffusion.
-    *   *Capability:* Photorealistic, high-fidelity local photography generation with rich lighting and textures.
+    *   *Capability:* Fast and cheap model. optional to download for testing 1st
 
 
     
