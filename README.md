@@ -100,6 +100,18 @@ Love the offline freedom? Support the project to keep local software development
 
 ---
 
+## 🛡️ Enterprise-Grade Security & Safety Guard
+
+We take your system's security and data privacy seriously. **AI SLOP Manager** implements a strict security layout:
+
+1.  **Zero Executable Risk (100% Safetensors):** We do not use deprecated `.ckpt` (pickle) formats. All graphical workflows are strictly configured to use `.safetensors` files, which are mathematically incapable of executing malicious code or embedding malware.
+2.  **Official Hugging Face Direct Pipeline:** Your machine connects directly to official, virus-scanned Hugging Face repositories. No proxy servers, no hidden redirects.
+
+### 🔗 Official Model Sources (Inspect them yourself):
+*   **ZImage Turbo UNET:** [Comfy-Org/z_image_turbo](https://huggingface.co/Comfy-Org/z_image_turbo)
+*   **Juggernaut XL v9 Checkpoint:** [RunDiffusion/Juggernaut-XL-v9](https://huggingface.co/RunDiffusion/Juggernaut-XL-v9)
+*   **Qwen Image Edit 2511 UNET:** [Comfy-Org/Qwen-Image-Edit_ComfyUI](https://huggingface.co/Comfy-Org/Qwen-Image-Edit_ComfyUI)
+
 ## ⚖️ Credits & Open-Source Attributions
 
 AI Slop Manager is a proprietary wrapper interface. We stand on the shoulders of giants. The underlying engines executing your generations are open-source masterpieces:
